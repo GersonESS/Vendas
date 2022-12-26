@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-family: 'Passion One', cursive;
+}
+h1#titulo-principal-do-reader{
+
+}
