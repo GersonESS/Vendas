@@ -10,6 +10,73 @@ h1{
 h2{
     font-family: Arial, Helvetica, sans-serif;
 }
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, p{
+    padding: 10px;
+}
+iframe{
+    display: flex;
+    max-width: 50vw;
+    max-height: 40vw;
+}
+div#conteudo-de-compra-header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+header{
+    background-image: url(fundo-preto-background.webp);
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 20px;
+}
+header h2{
+    font-size: 3vr;
+}
+header p{
+    font-size: 1.5vw;
+}
 h1#titulo-principal-do-reader{
+    text-align: center;
+    font-size: 5vw;
+    padding: 20px;
+    line-height: 6.5vw;
 
 }
+span.mudanca-de-cor-do-readea{
+    background-color: green;
+    border-radius: 10px;
+    padding: 0px 10px;
+}
+
+div#conteiner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+button#botao-header{
+    font-size: 4vw;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    color: white;
+    background-color: green;
+    font-weight: 600;
+
+}
+section#primeira-parte-do-main {
+    display: flex;
+    align-items: center;
+}
+section#primeira-parte-do-main img{
+    width: 50%;
+
+
+}
+
