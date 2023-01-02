@@ -12,6 +12,7 @@ h2{
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
 }
 h1, h2, p{
     padding: 10px;
@@ -78,5 +79,8 @@ section#primeira-parte-do-main img{
     width: 50%;
 
 
+}
+section#primeira-parte-do-main article > h1{
+    font-size: 4.3vh;
 }
 
