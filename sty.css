@@ -1,0 +1,8 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border: 10px solid orange;
+    border-top: 10px solid orange;
+    /*border-left: 10px solid black ;*/
+}
